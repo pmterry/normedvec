@@ -14,3 +14,5 @@ RoxygenNote: 5.0.1
 Suggests: BiocStyle, knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: http://github.com/pmterry/normedvec
+BugReports: http://github.com/pmterry/normedvec/issues
