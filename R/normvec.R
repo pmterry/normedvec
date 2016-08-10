@@ -12,6 +12,7 @@
 #' @seealso \code{median}
 #' @importFrom stats median
 #'
+#'
 normv <- function(v) {
   mediumofv <- median(v)
   vnorm <- v/mediumofv
